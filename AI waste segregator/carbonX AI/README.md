@@ -36,5 +36,5 @@ A gamified social system where users earn "Green Points" (XP) for every item rec
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/carbonX-AI.git](https://github.com/YOUR_USERNAME/carbonX-AI.git)
+   git clone [https://github.com/YOUR_USERNAME/carbonX-AI.git](https://github.com/Noorahmad001/carbonX-AI.git)
    cd carbonX-AI
